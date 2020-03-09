@@ -1,2 +1,6 @@
-hello i am  master
+<<<<<<< HEAD
+hello i am in master
 
+=======
+hello i am in development
+>>>>>>> development
